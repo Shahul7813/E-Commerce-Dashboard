@@ -1,6 +1,6 @@
 # Ecommerce-Sales-Dashboard-PowerBI
 
-Welcome to the Ecommerce Sales Dashboard repository! This project was created using Power BI Desktop to help the Data analyst track and analyze their online sales across India.
+Welcome to the Ecommerce Sales Dashboard repository! This project was created using Power BI Desktop to help the Data to track and analyze their online sales across India.
 
 **Project Objective**
 
@@ -36,7 +36,7 @@ Utilized various customized visualizations such as bar charts, donut charts, clu
 
 **Acknowledgments**
 
-We hope this dashboard provides valuable insights for Madhav Store's online sales strategy. Feel free to explore the visualizations and use the interactive features to gain a deeper understanding of the data. 
+We hope this dashboard provides valuable insights for Hameed's online sales strategy. Feel free to explore the visualizations and use the interactive features to gain a deeper understanding of the data. 
 Happy analyzing!
 
 
