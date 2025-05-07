@@ -1,10 +1,10 @@
-# MadhavStore-Ecommerce-Sales-Dashboard-PowerBI
+# Ecommerce-Sales-Dashboard-PowerBI
 
-Welcome to the Madhav Store Ecommerce Sales Dashboard repository! This project was created using Power BI Desktop to help the owner of Madhav Store track and analyze their online sales across India.
+Welcome to the Ecommerce Sales Dashboard repository! This project was created using Power BI Desktop to help the Data analyst track and analyze their online sales across India.
 
 **Project Objective**
 
-The primary objective of this project was to assist the owner of Madhav Store in gaining insights into their online sales data. By creating an interactive and visually appealing dashboard, we aimed to provide the owner with a tool to make data-driven decisions and enhance their online sales strategy.
+The primary objective of this project was to assist the owner of Store in gaining insights into their online sales data. By creating an interactive and visually appealing dashboard, we aimed to provide the owner with a tool to make data-driven decisions and enhance their online sales strategy.
 
 **Getting Started**
 
@@ -35,8 +35,6 @@ Created connections, joined new tables, and performed calculations to manipulate
 Utilized various customized visualizations such as bar charts, donut charts, clustered bar charts, slicers, etc., to present data effectively.
 
 **Acknowledgments**
-
-Special thanks to Rishabh Mishra for the valuable tutorials and guidance during the development of this project. You can find the tutorials here(https://www.youtube.com/watch?v=6cV3OwFrOkk&list=PLdOKnrf8EcP2ivbQIcVuknjdlUqkoprKo).
 
 We hope this dashboard provides valuable insights for Madhav Store's online sales strategy. Feel free to explore the visualizations and use the interactive features to gain a deeper understanding of the data. 
 Happy analyzing!
